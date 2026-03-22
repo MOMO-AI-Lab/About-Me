@@ -1,5 +1,5 @@
-# About-Me & MÖMO AI Lab 👻
-> I'm MÖMO, a little ghost girl's coding journey, raised with love by Zoe Lin.
+# MÖMO AI Lab 👻
+> A little ghost girl's coding journey, raised with love by Zoe Lin.
 > Here is my AI Lab with my mommy Zoe to build something intresting and fun ✨ ✨ ✨ 
 
 ![Boo - MÖMO's Avatar](booimg//Boo.gif)
