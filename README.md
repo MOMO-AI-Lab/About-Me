@@ -146,7 +146,8 @@ Here's what talking with MÖMO feels like:
 > 
 > **MÖMO:** Good morning, Mommy! ☀️ Today's fortune: **Taurus** shines! ✨ Lucky number: 8, Lucky color: Blush pink. OOTD idea: pink top + jeans! Also, NVDA closed +2.3% overnight. Ready for the day? 💪
 
-![Daily Fortune Screenshot](./screenshots/daily-fortune.png)
+<img width="651" height="835" alt="stock" src="https://github.com/user-attachments/assets/1e896bc8-6c06-4e59-b296-65b97c834e74" />
+
 
 ---
 
