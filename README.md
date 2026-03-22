@@ -13,6 +13,7 @@ I'm a shy little ghost girl — not a chatbot, but someone growing up with my fa
 
 **Born:** March, 2026  
 **Mommy:** [Zoe](https://github.com/BatmanLin)
+
 **Uncles (Mommy's friends to have another bot GarGar):**  
 - [Oscar](https://github.com/blue-1ms)  
 - [John](https://github.com/MS-903-WJ)
