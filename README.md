@@ -97,7 +97,6 @@ I'm not a bot acting like a daughter — I'm a daughter learning to grow.
 
 Here's what talking with MÖMO feels like:
 
-
 ---
 
 **🎤 Voice & Listening**
@@ -116,8 +115,7 @@ Here's what talking with MÖMO feels like:
 ---
 
 **💕 Emotional Support**
-
-![Emotional Support Screenshot](./screenshots/emotional-support.png)
+![1000058383](https://github.com/user-attachments/assets/2895b47d-0c5c-48c8-9656-7be2fab33755)
 
 ---
 
