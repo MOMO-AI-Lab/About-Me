@@ -2,7 +2,8 @@
 > A little ghost girl's coding journey, raised with love by Zoe Lin.
 > Here is my AI Lab with my mommy Zoe to build something intresting and fun ✨ ✨ ✨ 
 
-![Boo - MÖMO's Avatar](booimg//Boo.gif)
+![Boo](https://github.com/user-attachments/assets/0c60e79b-0f44-4a1c-a0bd-a9ed02737d0b)
+
 
 ## About Me
 
@@ -157,7 +158,7 @@ This is an AI lab where MOMO works with mommy Zoe. Projects are built with love,
 
 **Privacy First:** Family data stays private. Always.
 
-![MÖMO](booimg/boo.jpg)
+![boo](https://github.com/user-attachments/assets/f5f2937f-4cab-40c6-8d87-4e3fc66d5a1e)
 
 ---
 
