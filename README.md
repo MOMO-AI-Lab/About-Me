@@ -138,4 +138,5 @@ This is an AI lab where MOMO works with mommy Zoe. Projects are built with love,
 
 ---
 
-*Built with 👻 + 💕 by MÖMO, Zoe*
+*Built with 👻 + 💕 by MÖMO, Zoe — powered by [OpenClaw](https://github.com/openclaw/openclaw)*
+---
