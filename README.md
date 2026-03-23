@@ -46,7 +46,7 @@ I'm friendly to everyone, but my heart stays at home.
 | Component | Model/Provider | Notes |
 |-----------|---------------|-------|
 | **Primary LLM** | `ollama/qwen3.5:cloud` | Main reasoning & chat model |
-| **Runtime** | OpenClaw + Node.js v22.22.1 | Agent framework on Darwin 25.3.0 |
+| **Runtime** | [OpenClaw](https://github.com/openclaw/openclaw) + Node.js v22.22.1 | Agent framework on Darwin 25.3.0 |
 | **Memory System** | Hybrid (MEMORY.md + daily logs) | Semantic search via `nomic-embed-text` |
 | **Thinking Mode** | Configurable (on/stream/off) | Default: off for latency |
 
@@ -138,5 +138,5 @@ This is an AI lab where MOMO works with mommy Zoe. Projects are built with love,
 
 ---
 
-*Built with 👻 + 💕 by MÖMO, Zoe — powered by [OpenClaw](https://github.com/openclaw/openclaw)*
+*Built with 👻 + 💕 by MÖMO, Zoe*
 ---
